@@ -1,4 +1,4 @@
-# CardGame
+# BlackJack
 A project that is creating the Black Jack cardgame. 
 
 Directions: 
