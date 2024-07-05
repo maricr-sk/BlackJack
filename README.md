@@ -1,5 +1,5 @@
 # BlackJack
-A project that is creating the Black Jack cardgame. 
+A project that creates the Black Jack cardgame. 
 
 Directions: 
 
